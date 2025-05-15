@@ -1,5 +1,8 @@
 # indu
-- animation task 
-- dead line:2-6-2025
-- weekly updates
-- break large progress to short
+- ToDo application is task management tool
+- ToDo application is hepls to improve time management
+- Task creation
+- Work projects
+- Team collaboration
+- productivity
+- ToDo application also helps to personal tast mangement 
